@@ -1,6 +1,6 @@
-#Micrososft Challenge!
+# Micrososft Challenge!
 
-#Team QQT
+# Team QQT
 
 ### Part 1: Warmup tasks
 Solutions to Part 1 of this challenge can be found in the folder [Part1](./Part1).
