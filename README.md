@@ -10,5 +10,5 @@ Solutions to Part 1 of this challenge can be found in the folder [Part1](./Part1
 ### Part 2: Free-form project
 For part 2, we have implemented the Variational Quantum Thermalizer(VQT) and noise-induced VQT for 3 qubit Sherrington Kirkpatrick (SK) model of spin glass.
  
-VQT for 3 qubit SK model can be found in  the folder [Part2](./Part2) in the file 
-VQT for 3 qubit SK model can be found in  the folder [Part2](./Part2) in the file 
+VQT for 3 qubit SK model can be found in  the folder [Part2](./Part2) in the file 3qubitSK_Model_VQT.ipynb
+VQT for 3 qubit SK model can be found in  the folder [Part2](./Part2) in the file Noisy3qubitSK_Model_VQT.ipynb
