@@ -13,7 +13,7 @@ For part 2, we have implemented the Variational Quantum Thermalizer(VQT) and noi
  
 VQT for 3 qubit SK model can be found in  the folder [Part2](./Part2) in the file 3qubitSK_Model_VQT.ipynb
 
-VQT for 3 qubit SK model can be found in  the folder [Part2](./Part2) in the file Noisy3qubitSK_Model_VQT.ipynb
+noise-induced VQT for 3 qubit SK model can be found in  the folder [Part2](./Part2) in the file Noisy3qubitSK_Model_VQT.ipynb
 
 
 ### Blog post for the free form project
